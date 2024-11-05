@@ -1,0 +1,4 @@
+
+
+
+When the 2 squares collide one of them will change colors. The two squares will collide when the distance between their centers is less than half their combined widths.
